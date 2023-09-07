@@ -4,7 +4,7 @@ Sitti khairunnisak
 Username dicoding:
 
 | | Deskripsi |
-| ----------- | ----------- |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Dataset | [_Taxi Trips_ dataset] (https://raw.githubusercontent.com/tensorflow/tfx/master/tfx/examples/chicago_taxi_pipeline/data/simple/data.csv)) |
 | Masalah | Permasalahan dengan adanya solusi _taxi trip_ di Chicago adalah adanya masyarakat penyandang disabilitas yang tidak dapat menggunakan transportasi umum sehingga taksi menjadi solusi menyediakan alternatif transportasi penting bagi penyandang disabilitas. Adanya kemacetan lalu lintas dan dengan taksi dapat memberikan layanan transportasi yang efisien, terutama untuk perjalanan jarak pendek, sehingga mengurangi kemacetan lalu lintas dan meningkatkan efisiensi transportasi secara keseluruhan. Industri taksi juga dapat menjadi solusi menyediakan lapangan kerja bagi pengemudi dan berkontribusi terhadap perekonomian lokal. Analisis data: Kumpulan data perjalanan taksi memberikan wawasan berharga mengenai permintaan transportasi taksi dan dapat digunakan untuk mengoptimalkan layanan taksi, meningkatkan keselamatan, dan meningkatkan pengalaman pelanggan secara keseluruhan.
 Pengawasan peraturan: Kota Chicago mengatur industri taksi dan mengumpulkan data perjalanan taksi untuk memastikan kepatuhan terhadap peraturan dan melindungi kepentingan penumpang.|
